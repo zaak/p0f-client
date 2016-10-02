@@ -1,0 +1,17 @@
+{
+  "name": "p0f-client",
+  "version": "0.0.1",
+  "description": "p0f API Client",
+  "author": "Pawel Wiaderny <pawel.wiaderny@gmail.com>",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha test/"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "ip-address": "^5.8.2"
+  },
+  "devDependencies": {
+    "mocha": "^3.1.0"
+  }
+}
